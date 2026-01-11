@@ -8,7 +8,7 @@ description = "RaaS stands for Router as a Service"
 
 [dependencies]
 nftnl = { version = "0.9", features = ["nftnl-1-1-0"] }
-mnl = { version = "0.2", features = ["mnl-1-0-4"] }
+mnl = { version = "0.3", features = ["mnl-1-0-4"] }
 once_cell = "1"
 log = "0.4"
 env_logger = "0.10"
